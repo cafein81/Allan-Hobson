@@ -1,0 +1,40 @@
+.page {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.page h1 {
+  font-family: "Source Serif Pro", serif;
+  font-size: 30px;
+  color: #00363d;
+  font-weight: 700;
+}
+
+.page p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #333333;
+  font-weight: 400;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 25px;
+}
+
+.button {
+  color: #00363d;
+  text-align: center;
+}
+
+.button a {
+  color: #00363d;
+  text-decoration: none;
+}
+
+.button a:hover {
+  color: dodgerblue;
+}
+
+.museum {
+  width: 100%;
+  height: 500px;
+}
